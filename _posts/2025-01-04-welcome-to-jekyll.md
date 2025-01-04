@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+excerpt: "A blurb about this particular blog post..."
 date:   2025-01-04 12:42:52 +0000
 categories: jekyll update
 ---
