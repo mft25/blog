@@ -1,31 +1,26 @@
 ---
 layout:     post
 title:      "52 New Things"
-excerpt:    "New year's resolutions, and how I've got started."
+excerpt:    "New Year's resolutions, and how I've got started."
 date:       2025-01-04 12:42:52 +0000
 categories: jekyll update
 ---
 
 **Happy New Year!**
 
-As we step into 2025, I’m holding onto a New Year’s resolution that has been a consistent challenge 
-for me over the years: to go outside every single day.
-While I’ve had moments where illness or other obstacles have kept me indoors, I see this less as a 
-failure and more as a valuable lifestyle choice.
-It’s a habit that keeps me grounded, and one I’m determined to maintain.
+As we step into 2025, I’m holding onto a resolution I’ve tried to stick with in past years: to go outside every day.
+There are usually only a handful of days I miss, mostly when I’m unwell, so while I wouldn’t call it perfect, 
+it’s a habit I value and want to keep going.
 
-This year, Sophie and I are adding a new resolution to the mix: to do *one new thing* each week.
-It could be as simple as trying out a new restaurant or as ambitious as (though, let’s be real, 
-unlikely) running a marathon.
-The goal isn’t just novelty—it’s about weaving a sense of adventure and curiosity into our daily lives.
+This year, Sophie and I are adding a new resolution: to do *one new thing* each week.
+It doesn’t have to be anything big—maybe trying a new café or exploring a nearby hiking trail.
+The idea is simply to encourage ourselves to seek out small, fresh experiences more regularly.
 
-To kickstart this initiative, I’ve already begun compiling a list of ideas.
-Many of them are things I’ve wanted to do for ages, so this resolution is more of a motivational nudge 
-than a push beyond my comfort zone—for now.
+I’ve already started jotting down ideas. Most of them are things I’ve been meaning to try for a while, 
+so this is more about giving myself a gentle push than stepping too far out of my comfort zone.
 
-One new thing I’m proud to share is this very blog post—the first one I’ve ever written!
-Setting up the blog itself was an accomplishment, made much easier thanks to a great guide I found.
-There’s still work to do to align the blog with my website’s overall style, but I’m excited about the possibilities.
+To get started, I’ve decided to write this blog post—the first one I’ve ever done.
+Setting up the blog was surprisingly straightforward thanks to a helpful article I found, 
+though there’s still some work to do to make it fit in with the rest of my website.
 
-Here’s to new adventures, fresh challenges, and (hopefully) many more blog posts to come.
-Cheers to a fantastic 2025!
+Here’s to trying new things and seeing where the year takes us.
